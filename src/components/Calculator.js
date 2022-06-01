@@ -16,7 +16,7 @@ class Calculator extends React.Component {
           <button type="button" className="btn">7</button>
           <button type="button" className="btn">8</button>
           <button type="button" className="btn">9</button>
-          <button type="button" className="btn">*</button>
+          <button type="button" className="btn">x</button>
         </div>
         <div className="row-three grid">
           <button type="button" className="btn">4</button>
@@ -31,7 +31,6 @@ class Calculator extends React.Component {
           <button type="button" className="btn">+</button>
         </div>
         <div className="row-five grid">
-          <div type="button" className="col div-col" />
           <button type="button" className="btn">0</button>
           <button type="button" className="btn">.</button>
           <button type="button" className="btn">=</button>
