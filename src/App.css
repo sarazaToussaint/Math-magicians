@@ -14,13 +14,12 @@
   font-size: 1.5rem;
 }
 
-/* .grid {
+.grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+}
 
-} */
-
-.col {
+.btn {
   border: 1px solid gray;
   padding: 21px;
   text-align: center;
@@ -29,15 +28,15 @@
   cursor: pointer;
 }
 
-.col:last-child {
+.btn:last-child {
   background-color: rgba(214, 121, 27, 0.973);
 }
 
-.row-five .col:first-child {
+.row-five .btn:first-child {
   border-right: none;
 }
 
-.row-five .col:nth-child(2) {
+.row-five .btn:nth-child(2) {
   border-left: none;
   text-align: left;
   margin-left: -22px;
