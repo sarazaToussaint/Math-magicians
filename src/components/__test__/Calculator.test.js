@@ -62,4 +62,4 @@ describe('Validate `calculate` functions', () => {
     result = calculate(result, '=');
     expect(result.total).toBe('0');
   });
-})
+});
