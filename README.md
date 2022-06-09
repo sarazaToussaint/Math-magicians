@@ -68,6 +68,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@Toussaint Saraz1](https://twitter.com/ToussaintSaraz1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
 
+👤 **Author2**
+
+- GitHub: [@medsonmoombe](https://github.com/medsonmoombe)
+- Twitter: [@emmanue78388405](https://twitter.com/@emmanue78388405)
+- LinkedIn: [@Emmanuel moombe](https://www.linkedin.com/in/emmanuel-moombe-821918230/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
