@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import renderer from 'react-test-renderer';
-import Quote from '../pages/Quote';
+import Quote from './Quote';
 
 const QuoteTest = () => {
   <BrowserRouter>

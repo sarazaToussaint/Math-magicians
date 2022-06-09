@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import renderer from 'react-test-renderer';
-import Home from '../pages/Home';
+import Home from './Home';
 
 // Mock home functional component
 const TestHome = () => (
