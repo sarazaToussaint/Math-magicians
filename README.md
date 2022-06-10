@@ -18,9 +18,8 @@
 - JavaScript
 - React
 
-## Live Demo (if available)
+### [ Live Demo ](https://zippy-semolina-30b0af.netlify.app/)
 
-Not available
 
 ## Getting Started
 
